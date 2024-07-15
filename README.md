@@ -5,9 +5,6 @@ Goatlin
 developed by Checkmarx Security Research Team to support [Kotlin Secure Coding
 Practices guide][1].
 
-This repository contains both the Android mobile application  
-(`packages/clients/android`) and the back-end API server  
-(`packages/services/api`).
 
 ## Requirements
 
