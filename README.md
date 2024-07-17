@@ -6,7 +6,6 @@ developed by Checkmarx Security Research Team to support [Kotlin Secure Coding
 Practices guide][1].
 
 
-## Requirements  
 
 To play with the mobile application you should have the following tools:
 
